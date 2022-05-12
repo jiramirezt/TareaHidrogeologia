@@ -15,3 +15,7 @@ Para el estudio a analizar en el presente trabajo se utilizó la información de
 ![Mapa 1](https://user-images.githubusercontent.com/69225268/167980589-d4fc9109-c4a3-4501-b9c0-cbcbde571400.png)
 
 **Figura 2:** Mapa de los puntos tomados en campo y su tipología. Fuente: Elaboración propia
+
+## Balance ionico
+
+Para asegurar la calidad de las muestras compiladas, se calculó el valor del error analítico del balance iónico, de manera tal, que la suma de la concentración en miliequivalentes de cationes debe ser igual a la suma de las concentraciones en miliequivalentes de aniones. La ecuación para efectuar el balance iónico es la siguiente:

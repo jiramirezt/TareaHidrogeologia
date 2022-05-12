@@ -12,5 +12,6 @@ Puerto Wilches es un municipio del departamento de Santander, estando situado en
 **Figura 1:** Mapa Geológico del Sistema Acuífero Valle Medio del Magdalena (Malagón et al., 2021). 
 
 Para el estudio a analizar en el presente trabajo se utilizó la información de 45 muestras realizadas en el dominio aledaño al rio Magdalena y el rio Sogamoso.
-
 ![Mapa 1](https://user-images.githubusercontent.com/69225268/167980589-d4fc9109-c4a3-4501-b9c0-cbcbde571400.png)
+
+**Figura 2:** Mapa de los puntos tomados en campo y su tipología. Fuente: Elaboración propia

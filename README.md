@@ -128,3 +128,18 @@ Luego se hace el análisis respecto a lo que se obtuvo en el diagrama de HFED
 
 El diagrama de evolución de fases hidroquimicas (HFED) fue concebido para interpretar la hidroquimica de las fases de intrusión y recuperación de la intrusión marina en acuíferos de características costeras. Sin embargo, también se puede emplear como alternativa a otros diagramas hidroquímicos(Giménez-Forcada, 2019). Tiene como gran ventaja que permite la visualización de posibles agrupaciones de muestras y tendencias de evolución que ocurren en el acuífero. En la zona de estudio se puede asimilar que la gran parte de las muestras están contenidas en la zona asociada al freshening que combina un alto contenido de calcios y carbonatos, lo cual confirma lo analizado previamente en los diferentes diagramas. 
 
+## Bibliografia
+
+Chadha, D. K. (1999). A proposed new diagram for geochemical classification of natural waters and interpretation of chemical data. Hydrogeology Journal, 7(5), 431–439. https://doi.org/10.1007/s100400050216
+
+Giménez-Forcada, E. (2019). Use of the Hydrochemical Facies Diagram (HFE-D) for the evaluation of salinization by seawater intrusion in the coastal Oropesa Plain: Comparative analysis with the coastal Vinaroz Plain, Spain. HydroResearch, 2, 76–84. https://doi.org/10.1016/j.hydres.2019.11.007
+
+Malagón, J. P., Piña, A., Argüello, S., & Donado, L. D. (2021). Hydrogeochemical-multivariate analysis of groundwater in the aquifer system of the middle Magdalena valley, Colombia: Regional-scale study. Boletin de La Sociedad Geologica Mexicana, 73(3). https://doi.org/10.18268/BSGM2021v73n3a070421
+
+Marandi, A., & Shand, P. (2018). Groundwater chemistry and the Gibbs Diagram. In Applied Geochemistry (Vol. 97, pp. 209–212). Elsevier Ltd. https://doi.org/10.1016/j.apgeochem.2018.07.009
+
+Wu, C., Wu, X., Lu, C., Sun, Q., He, X., Yan, L., & Qin, T. (2021). Hydrogeochemical characterization and its seasonal changes of groundwater based on self-organizing maps. Water (Switzerland), 13(21). https://doi.org/10.3390/w13213065
+
+Yang, J., Liu, H., Tang, Z., Peeters, L. and Ye, M. (2022), Visualization of Aqueous Geochemical Data Using Python and WQChartPy. Groundwater. https://doi.org/10.1111/gwat.13185
+
+Lê S, Josse J, Husson F (2008). “FactoMineR: A Package for Multivariate Analysis.” Journal of Statistical Software, 25(1), 1–18. doi: 10.18637/jss.

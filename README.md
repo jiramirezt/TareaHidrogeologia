@@ -41,7 +41,9 @@ El análisis estadístico multivariado (AEM) es una herramienta que permite la i
 ### Análisis de agrupamiento Jerárquico (AAJ)
 Lo primero que se realizó en el ámbito asociado al AEM fue el análisis de agrupamiento jerárquico a partir de el paquete FactoMineR del lenguaje de programación R. La posición marcada por la línea fenotípica que cruza el dendograma permitió la conformación de 3 grupos que conformaron cada una de las 29 muestras tomadas en campo.  Inicialmente se efectuó el diagrama de circulo de correlaciones para cada muestra a partir del análisis. 
 
-![image](https://user-images.githubusercontent.com/69225268/168146442-b11a8875-e240-46e6-bd15-6aa28eefee3d.png)
+![image](https://user-images.githubusercontent.com/69225268/168167805-fd7176fc-699f-42f6-a303-2dd98e8ec15b.png)
+
+![image](https://user-images.githubusercontent.com/69225268/168168189-44a24add-e9d5-4065-b6fd-fc410c8a499a.png)
 
 **Figura 4:** Circulo de Correlaciones. Fuente: Elaboración Propia
 

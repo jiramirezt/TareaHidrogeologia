@@ -130,6 +130,13 @@ Luego se hace el análisis respecto a lo que se obtuvo en el diagrama de HFED
 
 El diagrama de evolución de fases hidroquimicas (HFED) fue concebido para interpretar la hidroquimica de las fases de intrusión y recuperación de la intrusión marina en acuíferos de características costeras. Sin embargo, también se puede emplear como alternativa a otros diagramas hidroquímicos(Giménez-Forcada, 2019). Tiene como gran ventaja que permite la visualización de posibles agrupaciones de muestras y tendencias de evolución que ocurren en el acuífero. En la zona de estudio se puede asimilar que la gran parte de las muestras están contenidas en la zona asociada al freshening que combina un alto contenido de calcios y carbonatos, lo cual confirma lo analizado previamente en los diferentes diagramas. 
 
+## Conclusiones
+
+A partir de el desarrollo de los diferentes diagramas y agrupación se pueden evidenciar los siguientes aspectos principales: La zona a estudiar cuenta con aguas donde predominan características cálcicas en los cationes;  adicionalmente presenta características bicarbonatadas en el ámbito de los aniones. Por medio del clustering efectuado por cada uno de los grupos las muestras del grupo 1 cuentan con una característica mixta y en ciertos casos de tipo sódica bicarbonatada, mientras que las del grupo 2 y 3 cuentan con características magnésica bicarbonatada. A partir del PCA, se puede determinar que existe una buena consistencia con el AAJ. Las muestras del grupo 1 están situadas en el lado medio izquierdo de la figura y corresponden a las muestras con mayor mineralización. Las muestras de los grupos 2 se encuentran en el centro del plano factorial, por lo cual son muestras con un nivel intermedio de mineralización, finalmente las muestras del grupo 3 están situadas en el lado medio izquierdo de la figura y corresponden a las muestras con menor mineralización.
+
+A partir de los diagramas se pudo obtener una descripción muy detallada de la caracterización de las aguas subterráneas en la zona de puerto Wilches, y como es mencionado previamente, para cada grafica existe una particularidad que ayuda a describir una propiedad nueva a partir de la caracterización química.   
+
+
 ## Bibliografia
 
 Chadha, D. K. (1999). A proposed new diagram for geochemical classification of natural waters and interpretation of chemical data. Hydrogeology Journal, 7(5), 431–439. https://doi.org/10.1007/s100400050216

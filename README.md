@@ -32,3 +32,22 @@ Para garantizar que la muestra cumple con estándares de calidad se debe rechaza
 
 El análisis estadístico multivariado (AEM) es una herramienta que permite la identificación de grupos distintivos de las muestras y las correlaciones presentes entre sus parámetros. Para efectuar el AEM, se utilizó el paquete estadístico FactoMineR incluido en el lenguaje de programación estadístico R. El conjunto de datos utilizado para el AEM consistió en una base de datos de 29 muestras por 13 parámetros, 11 activos (pH, Ca<sup>2+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Mg<sup>2+</sup>, Fe total, Cl<sup>-</sup> , SO<sub>4</sub><sup>2-</sup>, HCO<sub>3</sub><sup>2-</sup> , NO<sub>3</sub><sup>-</sup> y NO<sub>2</sub><sup>-</sup>) y 2 suplementarios (CE y SDT). A partir de estos se obtuvo la tabla descriptiva de cada uno de los parámetros.
 
+
+**Tabla 1:** Resumen estadístico para cada una de las variables presentes en la zona
+
+![tabla](https://user-images.githubusercontent.com/69225268/168139240-154628e3-0c03-48b3-b38d-46fa8336d05a.png)
+
+## Resultados
+### Análisis de agrupamiento Jerárquico (AAJ)
+Lo primero que se realizó en el ámbito asociado al AEM fue el análisis de agrupamiento jerárquico a partir de el paquete FactoMineR del lenguaje de programación R. La posición marcada por la línea fenotípica que cruza el dendograma permitió la conformación de 3 grupos que conformaron cada una de las 29 muestras tomadas en campo.  Inicialmente se efectuó el diagrama de circulo de correlaciones para cada muestra a partir del análisis. 
+
+![image](https://user-images.githubusercontent.com/69225268/168146442-b11a8875-e240-46e6-bd15-6aa28eefee3d.png)
+
+**Figura 4:** Circulo de Correlaciones. Fuente: Elaboración Propia
+
+A partir del análisis de agrupamiento jerárquico también se esquematizaron de manera adecuada las diferentes muestras tomadas en campo. 
+
+![image](https://user-images.githubusercontent.com/69225268/168146565-bcf0d53f-def7-47e2-a386-e8ec334143a9.png)
+
+**Figura 5:** Proyección de las 29 muestras según sus resultados del AAJ. Fuente: Elaboración Propia
+
